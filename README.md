@@ -1,4 +1,4 @@
-## ✌️ Hi, I'm Jesith, i'm electronic engineer. I'm an IoT app creator and frontend developer, passionate about technology and innovation.
+## ✌️ Hi, I'm Jesith, I'm electronic engineer. I'm an IoT app creator and frontend developer, passionate about technology and innovation.
 
 <div align="center"><br>
   <a href="https://github.com/ing-thejis">
