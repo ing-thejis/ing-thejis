@@ -1,4 +1,4 @@
-## ✌️ Hi, I'm Jesith, I'm Tech Lead & Frontend Developer. Today and all night, I try to take over the world
+## ✌️ Hi, I'm Jesith, I'm Full React Frontend Developer. Today and all night, I try to take over the world
 
 <div align="center"><br>
   <a href="https://github.com/ing-thejis">
