@@ -15,8 +15,8 @@
   <img align="center" alt="thejis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="thejis-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-plain.svg">
   <img align="center" alt="thejis-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="thejis-go" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/icons/go/go-original.svg" />
-  <img align="center" alt="thejis-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="thejis-go" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+  <img align="center" alt="thejis-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img align="center" alt="thejis-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
   
 </div>
