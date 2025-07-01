@@ -39,7 +39,7 @@
 
 ###
 
-- 💻 I’m currently working on [BTi](https://btilab.co/)
+- 💻 I’m currently working on [House Edge LLC](https://houseedge.dev)
 - 🇨🇴 I'm from Colombia
 - 📚 I'm learning Backend developement with Express, Next and Remix 
 - 🎯 Goals: I try to take over the world
