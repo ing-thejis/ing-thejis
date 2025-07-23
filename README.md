@@ -46,7 +46,7 @@
 
 ###
 
-- 💻 I’m currently working on [House Edge LLC](https://houseedge.dev)
+- 💻 I’m currently working ...
 - 🇨🇴 I'm from Colombia
 - 📚 I'm learning Backend development with Express, Nest Js 
 - 🎯 Goals: I try to take over the world
