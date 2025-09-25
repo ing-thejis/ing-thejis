@@ -46,9 +46,9 @@
 
 ###
 
-- 💻 I’m currently working ...
+- 💻 I’m currently working as a freelancer
 - 🇨🇴 I'm from Colombia
-- 📚 I'm learning Backend development with Express, Nest Js 
+- 📚 I'm learning new skill like Frontend VueJS and Backend with Express, Nest Js 
 - 🎯 Goals: I try to take over the world
 
 ###
