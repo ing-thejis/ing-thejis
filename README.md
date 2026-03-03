@@ -1,4 +1,4 @@
-## ✌️ Hi, I'm Jesith, I'm Full React Frontend Developer. Today and all night, I try to take over the world
+## ✌️ Hi, I'm Jesith, I'm Frontend Developer and learning more every day. Today and all night, I try to take over the world
 
 <div align="center"><br>
   <a href="https://github.com/ing-thejis">
@@ -48,7 +48,7 @@
 
 - 💻 I’m currently working as a freelancer
 - 🇨🇴 I'm from Colombia
-- 📚 I'm learning new skills like Frontend VueJS and Backend with Express, Nest Js 
+- 📚 I'm learning new skills like Frontend VueJS and Backend with Express, Hono JS, Nest Js and more
 - 🎯 Goals: I try to take over the world
 
 ###
