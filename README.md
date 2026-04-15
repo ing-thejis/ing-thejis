@@ -1,6 +1,6 @@
 ## ✌️ Hi, I'm Jesith, I'm Frontend Developer and learning more every day. Today and all night, I try to take over the world
   
-<div style="display: flex; align-items: center; gap: 12px;" align="center"><br><br><br>
+<div style="display: grid; grid-template-columns: repeat(3, 40px); gap: 10px;" align="center"><br><br><br>
  
   <img align="center" alt="thejis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="thejis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
